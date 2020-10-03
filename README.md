@@ -1,2 +1,2 @@
 # Adael-Quechol-Olivares
-Programas sobre Circuitos Electricos de la materia Lenguajes de Programacion
+01.Circuito, 02. Leds, 03 calificaciones, 04 ecuación
